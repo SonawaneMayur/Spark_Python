@@ -6,5 +6,9 @@ This is the central repository for all the materials related to <em>Apache Spark
 Oracle DB connection; Table data transformation using PySpark
 
 
+# PostgreSQLDemo
+PostgreSQL DB connection; Table data transformation using PySpark
+
+
 # Tags
 Spark, Python, PySpark, Oracle XE
