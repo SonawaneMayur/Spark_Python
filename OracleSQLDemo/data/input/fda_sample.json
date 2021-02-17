@@ -1,0 +1,39 @@
+{
+	"metadata": {
+		"elements_per_page": "5",
+		"next_page_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?rxcui=312962&pagesize=5&page=3",
+		"total_pages": "6",
+		"total_elements": "26",
+		"current_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?rxcui=312962&pagesize=5&page=2",
+		"next_page": "3",
+		"previous_page": "1",
+		"previous_page_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?rxcui=312962&pagesize=5&page=1",
+		"current_page": "2"
+	},
+	"data": [{
+		"spl_version": "25",
+		"published_date": "Nov 01, 2013",
+		"setid": "fdbfe194-b845-42c5-bb87-a48118bc72e7",
+		"title": "ZOCOR (SIMVASTATIN) TABLET, FILM COATED [MERCK SHARP & DOHME CORP.]"
+	}, {
+		"spl_version": "1",
+		"published_date": "Sep 26, 2013",
+		"setid": "7d46690d-090d-4d8b-af63-e57c48fc86b5",
+		"title": "SIMVASTATIN TABLET, FILM COATED [CARDINAL HEALTH]"
+	}, {
+		"spl_version": "1",
+		"published_date": "May 20, 2013",
+		"setid": "9a3d815e-ab40-4c1c-a065-281dac6685a6",
+		"title": "SIMVASTATIN TABLET, FILM COATED [GEN-SOURCE RX]"
+	}, {
+		"spl_version": "90384",
+		"published_date": "Apr 30, 2013",
+		"setid": "5c1c694c-4b08-469e-b538-08e69df06146",
+		"title": "SIMVASTATIN TABLET [MICRO LABS LIMITED]"
+	}, {
+		"spl_version": "4",
+		"published_date": "Apr 08, 2013",
+		"setid": "881eb80b-712e-4aa2-bd23-290a3e5db6cd",
+		"title": "SIMVASTATIN TABLET, FILM COATED [CADILA HEALTHCARE LIMITED]"
+	}]
+}
